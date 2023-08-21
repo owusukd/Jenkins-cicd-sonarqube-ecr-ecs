@@ -18,4 +18,4 @@ The whole process involved in fetching the code from github, performing code ana
 * AWS sdk, aws steps
 
 
-Source code by Imran Teli.
+Java Source code by Imran Teli.
